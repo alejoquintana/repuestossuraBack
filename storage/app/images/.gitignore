@@ -1,0 +1,6 @@
+!.gitignore
+!app/
+!banners/
+categories/
+products/
+appimages/

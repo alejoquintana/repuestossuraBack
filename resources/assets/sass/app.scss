@@ -1,0 +1,34 @@
+
+// Fonts
+/* @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans"); */
+@import url("https://use.fontawesome.com/releases/v5.2.0/css/all.css");
+// Variables
+// Variables
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+@import "variables";
+
+// Bootstrap
+@import "reset";
+@import '~bootstrap/scss/bootstrap';
+@import '~animate.css/animate.min.css';
+@import '~bootstrap/dist/css/bootstrap.css'; 
+@import '~bootstrap-vue/dist/bootstrap-vue.css';
+@import '~font-awesome/scss/font-awesome.scss';
+@import '~swiper/dist/css/swiper.css';
+
+@import 'helpers'; 
+
+a {
+  color: inherit;
+  text-decoration: none;
+  &:hover {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+* {
+  font-size: 1rem;
+  font-family: 'Cabin', sans-serif;
+}
+
